@@ -11,7 +11,7 @@ Java Swing and different frameworks in css and web devlopment.
 HTML,CSS,JAVASCRIPT
 
 ⚡ Fun fact:
-I love creating programs
+I love creating programs.
 
 <!---
 Prathit6/Prathit6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
