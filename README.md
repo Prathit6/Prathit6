@@ -1,8 +1,17 @@
-- 👋🏻Hello,I’m @Prathit/Prathit Dode
-- 👀 I'm really interested in learning Java because it seems like a fascinating way to build cool applications. Also, exploring web development sounds nice; I want to understand how to create friendly and simple websites using HTML, CSS, and JavaScript.
-- 🌱 I’m currently learning DSA&core Java.
-- 💞️ I’m looking to collaborate on development.
-- 📫 How to reach me ...
+🔭 I’m currently working on:
+web devlopment and DSA with java.
+
+👯 I’m looking to collaborate on:
+Fullstack projects
+
+🌱 I’m currently learning:
+Java Swing and different frameworks in css and web devlopment.
+
+💬 Ask me about:
+HTML,CSS,JAVASCRIPT
+
+⚡ Fun fact:
+I love creating programs
 
 <!---
 Prathit6/Prathit6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
