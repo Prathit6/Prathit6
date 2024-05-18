@@ -1,11 +1,11 @@
 🔭 I’m currently working on:
-web devlopment and DSA with java.
+web devlopment.
 
 👯 I’m looking to collaborate on:
 Fullstack projects
 
 🌱 I’m currently learning:
-Java Swing and different frameworks in css and web devlopment.
+Java Swing and different frameworks in css and web devlopmenthttps and also DSA with JAVA.
 
 💬 Ask me about:
 HTML,CSS,JAVASCRIPT
