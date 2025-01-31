@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0F84F7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Open+Source+Enthusiast;React+%7C+Node.js+%7C+Java;UI/UX+Lover;Tech+Explorer+%F0%9F%9A%80">
 </h1>
 
-### 📊 My GitHub Skyline  
-[![GitHub Skyline](https://skyline.github.com/Prathit6/2023.png)](https://skyline.github.com/Prathit6)
+
 
 
 
