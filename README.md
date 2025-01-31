@@ -1,38 +1,70 @@
-<h1 align="center">Hi there, I'm Prathit! 👋</h1>
+<h1 align="center">Hey there! I'm Prathit 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Prathit6/Prathit6/blob/main/banner.png" alt="Banner Image">
+  <img src="https://github.com/Prathit6/Prathit6/blob/main/banner.png" alt="Personal Banner" width="100%">
 </p>
 
-## 🚀 About Me  
-🔭 I’m currently working on **Web Development**  
-👯 I’m looking to collaborate on **Fullstack Projects**  
-🌱 I’m learning **Java Swing, CSS frameworks, web development, and DSA with Java**  
-💬 Ask me about **HTML, CSS, JavaScript**  
-⚡ Fun fact: I love creating programs!  
+### 🚀 About Me  
+💡 Passionate about **Fullstack Development** & building **scalable applications.**  
+🎯 Currently working on **modern web projects** with a focus on **UI/UX and performance.**  
+📖 Learning **Java Swing, CSS frameworks, advanced web development, and DSA with Java.**  
+🎨 Obsessed with **clean code, minimal UI, and seamless user experiences.**  
 
 ---
 
-## 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+### 🛠️ Tech Stack  
 
----
+#### **Frontend**  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathit6&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathit6&theme=radical" alt="GitHub Streak">
+#### **Backend & Databases**  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+#### **Languages & Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white">
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="https://linkedin.com/in/prathit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/prathit" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:prathit@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathit6&show_icons=true&theme=tokyonight" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathit6&theme=tokyonight" height="180px">
 </p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathit-d-444150288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/Prathitdode" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:prathitdode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+💻 **Let’s build something amazing together!** 🚀  
+
+
