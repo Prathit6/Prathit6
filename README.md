@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! I'm Prathit 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/Prathit6/Prathit6/blob/main/banner.png" alt="Personal Banner" width="100%">
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/Prathit6/Prathit6/main/banner.png" alt="Personal Banner" width="100%">
 </p>
+
 
 ### 🚀 About Me  
 💡 Passionate about **Fullstack Development** & building **scalable applications.**  
