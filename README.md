@@ -7,14 +7,6 @@
 ### 📊 My GitHub Skyline  
 [![GitHub Skyline](https://skyline.github.com/Prathit6/2023.png)](https://skyline.github.com/Prathit6)
 
-```bash
-  _____           _   _ _   _     
- |  __ \         | | (_) | (_)    
- | |__) |__  _ __| |_ _| |_ _  ___ 
- |  ___/ _ \| '__| __| | __| |/ _ \
- | |  | (_) | |  | |_| | |_| |  __/
- |_|   \___/|_|   \__|_|\__|_|\___|
-
 
 
 
